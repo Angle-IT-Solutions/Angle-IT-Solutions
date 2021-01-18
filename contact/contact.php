@@ -10,8 +10,8 @@ require 'PHPMailer-master/PHPMailerAutoload.php';
 */
 
 // an email address that will be in the From field of the email.
-$fromEmail = 'your-email@domain.com';
-$fromName = 'Snowlake Contact Form';
+$fromEmail = 'support@angelitsolutions.co.in';
+$fromName = 'Support Angel IT Solutions';
 
 // an email address that will receive the email with the output of the form
 $sendToEmail = 'your-email@domain.com';
