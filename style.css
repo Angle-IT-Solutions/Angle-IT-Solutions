@@ -361,6 +361,8 @@ h6.text-uppercase,
 .lead {
     font-size: 1rem;
     line-height: 1.5rem;
+    margin-top: 2em;
+    margin-bottom: 4em;
 }
 .page-title-wrapper .lead {
     font-size: 1.1rem;
