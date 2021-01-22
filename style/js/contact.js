@@ -3,9 +3,9 @@
     //set your google maps parameters
 
     $(document).ready(function(){
-        var latitude = 22.29543538559584,
-            longitude = 73.16951275725576,
-            map_zoom = 13;
+        var latitude = 22.2953163,
+            longitude = 73.1690834,
+            map_zoom = 17;
 
         var locations = [
             ['<div class="infobox"><span>LIC<span></br><span>Email: k110376@gmail.com</span></div>'
