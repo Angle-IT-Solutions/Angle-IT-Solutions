@@ -3,8 +3,8 @@
     //set your google maps parameters
 
     $(document).ready(function(){
-        var latitude = 22.310696,
-            longitude = 73.192635,
+        var latitude = 22.29543538559584,
+            longitude = 73.16951275725576,
             map_zoom = 13;
 
         var locations = [
