@@ -14,8 +14,8 @@ $fromEmail = 'support@angelitsolutions.co.in';
 $fromName = 'Support Angel IT Solutions';
 
 // an email address that will receive the email with the output of the form
-$sendToEmail = 'your-email@domain.com';
-$sendToName = 'Snowlake Contact Form';
+$sendToEmail = 'support@angelitsolutions.co.in';
+$sendToName = 'Support';
 
 // subject of the email
 $subject = 'New message from Snowlake contact form';
